@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "S",
+    "S"
+  ],
+  "key": {
+    "#": {
+      "item": "amethystmod:amethyst_essence"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "amethystmod:amethyst_shovel",
+    "count": 1
+  }
+}

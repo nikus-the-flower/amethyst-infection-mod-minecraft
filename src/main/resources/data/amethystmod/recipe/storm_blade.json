@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L",
+    "B",
+    "S"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "B": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "amethystmod:storm_blade",
+    "count": 1
+  }
+}

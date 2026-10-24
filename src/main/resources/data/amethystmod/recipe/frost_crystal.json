@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IEI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:ice"
+    },
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    }
+  },
+  "result": {
+    "id": "amethystmod:frost_crystal",
+    "count": 1
+  }
+}

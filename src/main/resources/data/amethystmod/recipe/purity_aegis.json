@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PRP",
+    "PDP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "amethystmod:purified_amethyst"
+    },
+    "R": {
+      "item": "amethystmod:resonant_shard"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "amethystmod:purity_aegis",
+    "count": 1
+  }
+}

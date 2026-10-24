@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "amethystmod:block/crystal_bud_violet",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "amethystmod:block/crystal_bud_violet",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "amethystmod:block/crystal_bud_violet",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "amethystmod:block/crystal_bud_violet",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "amethystmod:block/crystal_bud_violet"
+    },
+    "facing=west": {
+      "model": "amethystmod:block/crystal_bud_violet",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

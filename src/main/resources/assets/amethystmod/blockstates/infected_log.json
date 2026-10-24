@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "amethystmod:block/infected_log"
+    },
+    "axis=z": {
+      "model": "amethystmod:block/infected_log",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "amethystmod:block/infected_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

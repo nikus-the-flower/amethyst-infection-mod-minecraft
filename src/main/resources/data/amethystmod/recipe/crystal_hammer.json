@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BRB",
+    "BSB",
+    " S "
+  ],
+  "key": {
+    "B": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "R": {
+      "item": "amethystmod:resonant_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "amethystmod:crystal_hammer",
+    "count": 1
+  }
+}

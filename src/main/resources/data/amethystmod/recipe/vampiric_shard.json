@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    }
+  ],
+  "result": {
+    "id": "amethystmod:vampiric_shard",
+    "count": 1
+  }
+}

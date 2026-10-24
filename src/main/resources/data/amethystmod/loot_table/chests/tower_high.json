@@ -1,0 +1,412 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_essence",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 9
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:resonant_shard",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:purified_amethyst",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:flame_crystal",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:frost_crystal",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:brilliant_amethyst",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ender_pearl",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:crystal_arrow",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 6,
+                "max": 16
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_sword",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:flame_brand",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:frost_edge",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:storm_blade",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:void_edge",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:purifier_blade",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:flame_staff",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:frost_staff",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:prism_scepter",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:crystal_hammer",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:talis_hammer",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:crystal_bow",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_shield",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_helmet",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_chestplate",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_leggings",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_boots",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:purified_helmet",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:purified_chestplate",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:purified_leggings",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:purified_boots",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:aegis_heart",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_wings",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:blink_ring",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:vampiric_shard",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:berserker_core",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:stasis_crystal",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:gravity_orb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:crystal_totem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:thunder_shard",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.4
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:aegis_heart",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:amethyst_wings",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:blink_ring",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:vampiric_shard",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:berserker_core",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:stasis_crystal",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:gravity_orb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:crystal_totem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:thunder_shard",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:crystal_hammer",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:talis_hammer",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.45
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:purity_amulet",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.6
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:purified_crystal_apple",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:country_potatoes",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "amethystmod:cereal_with_milk",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

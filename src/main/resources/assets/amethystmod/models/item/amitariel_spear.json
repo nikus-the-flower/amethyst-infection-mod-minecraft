@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "amethystmod:item/amitariel_spear"
+  }
+}

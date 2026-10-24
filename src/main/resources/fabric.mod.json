@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "amethystmod",
+  "version": "${version}",
+  "name": "Amethyst Infection",
+  "description": "The Amethyst infection spreads across the world.",
+  "authors": ["nikus"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.amethystmod.AmethystMod"],
+    "client": ["com.amethystmod.AmethystModClient"]
+  },
+  "mixins": [
+    {"config": "amethystmod.client.mixins.json", "environment": "client"}
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

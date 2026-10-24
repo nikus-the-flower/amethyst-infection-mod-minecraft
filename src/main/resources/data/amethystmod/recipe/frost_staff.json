@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  F",
+    " S ",
+    "E  "
+  ],
+  "key": {
+    "F": {
+      "item": "amethystmod:frost_crystal"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    }
+  },
+  "result": {
+    "id": "amethystmod:frost_staff",
+    "count": 1
+  }
+}

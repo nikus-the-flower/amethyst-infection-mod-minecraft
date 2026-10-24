@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "amethystmod:block/infected_log_top",
+    "side": "amethystmod:block/infected_log"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "B",
+    "S"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "amethystmod:void_edge",
+    "count": 1
+  }
+}

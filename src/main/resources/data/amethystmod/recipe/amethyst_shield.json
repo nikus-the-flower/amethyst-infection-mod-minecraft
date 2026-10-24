@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EBE",
+    "ERE",
+    " E "
+  ],
+  "key": {
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    },
+    "B": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "R": {
+      "item": "amethystmod:resonant_shard"
+    }
+  },
+  "result": {
+    "id": "amethystmod:amethyst_shield",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "amethystmod:clear_amethyst"
+    }
+  },
+  "result": {
+    "id": "amethystmod:clear_amethyst_pane",
+    "count": 16
+  }
+}

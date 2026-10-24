@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "amethystmod:purified_amethyst"
+    }
+  ],
+  "result": {
+    "id": "amethystmod:purified_crystal_bread",
+    "count": 2
+  }
+}

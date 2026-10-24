@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PSP",
+    " R "
+  ],
+  "key": {
+    "P": {
+      "item": "amethystmod:purified_amethyst"
+    },
+    "R": {
+      "item": "amethystmod:resonant_shard"
+    },
+    "S": {
+      "item": "amethystmod:amitariel_spear"
+    }
+  },
+  "result": {
+    "id": "amethystmod:purified_spear",
+    "count": 1
+  }
+}

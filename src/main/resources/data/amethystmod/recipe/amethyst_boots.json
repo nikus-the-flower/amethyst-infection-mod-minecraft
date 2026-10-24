@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "R": {
+      "item": "amethystmod:resonant_shard"
+    }
+  },
+  "result": {
+    "id": "amethystmod:amethyst_boots",
+    "count": 1
+  }
+}

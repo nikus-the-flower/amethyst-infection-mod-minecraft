@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "B",
+    "S"
+  ],
+  "key": {
+    "P": {
+      "item": "amethystmod:purified_amethyst"
+    },
+    "B": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "S": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "amethystmod:purifier_blade",
+    "count": 1
+  }
+}

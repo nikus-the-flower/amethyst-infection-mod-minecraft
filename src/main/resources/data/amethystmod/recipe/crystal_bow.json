@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " BS",
+    "B S",
+    " BS"
+  ],
+  "key": {
+    "B": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "amethystmod:crystal_bow",
+    "count": 1
+  }
+}

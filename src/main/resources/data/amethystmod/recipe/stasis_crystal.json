@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QEQ",
+    "EFE",
+    "QEQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    },
+    "F": {
+      "item": "amethystmod:frost_crystal"
+    }
+  },
+  "result": {
+    "id": "amethystmod:stasis_crystal",
+    "count": 1
+  }
+}

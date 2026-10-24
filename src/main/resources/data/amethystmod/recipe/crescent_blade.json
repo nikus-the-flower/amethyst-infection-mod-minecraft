@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " PR",
+    "PSP",
+    "RP "
+  ],
+  "key": {
+    "P": {
+      "item": "amethystmod:purified_amethyst"
+    },
+    "R": {
+      "item": "amethystmod:resonant_shard"
+    },
+    "S": {
+      "item": "amethystmod:amethyst_sword"
+    }
+  },
+  "result": {
+    "id": "amethystmod:crescent_blade",
+    "count": 1
+  }
+}

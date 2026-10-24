@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E",
+    "S",
+    "F"
+  ],
+  "key": {
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "id": "amethystmod:crystal_arrow",
+    "count": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LBL",
+    "BSB",
+    " S "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "B": {
+      "item": "amethystmod:brilliant_amethyst"
+    },
+    "S": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "id": "amethystmod:talis_hammer",
+    "count": 1
+  }
+}

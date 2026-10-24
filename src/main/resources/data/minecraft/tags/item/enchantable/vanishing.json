@@ -1,0 +1,24 @@
+{
+  "values": [
+    "amethystmod:amethyst_helmet",
+    "amethystmod:purified_helmet",
+    "amethystmod:amethyst_chestplate",
+    "amethystmod:purified_chestplate",
+    "amethystmod:amethyst_leggings",
+    "amethystmod:purified_leggings",
+    "amethystmod:amethyst_boots",
+    "amethystmod:purified_boots",
+    "amethystmod:amethyst_sword",
+    "amethystmod:flame_brand",
+    "amethystmod:frost_edge",
+    "amethystmod:storm_blade",
+    "amethystmod:void_edge",
+    "amethystmod:purifier_blade",
+    "amethystmod:crystal_hammer",
+    "amethystmod:talis_hammer",
+    "amethystmod:amethyst_pickaxe",
+    "amethystmod:amethyst_axe",
+    "amethystmod:amethyst_shovel",
+    "amethystmod:amethyst_hoe"
+  ]
+}

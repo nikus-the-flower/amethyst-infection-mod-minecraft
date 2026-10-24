@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PBP",
+    "FEF",
+    "P P"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "B": {
+      "item": "amethystmod:brilliant_amethyst"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    }
+  },
+  "result": {
+    "id": "amethystmod:amethyst_wings",
+    "count": 1
+  }
+}

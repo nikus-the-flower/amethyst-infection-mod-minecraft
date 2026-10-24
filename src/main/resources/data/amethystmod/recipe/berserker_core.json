@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RER",
+    "EFE",
+    "RER"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    },
+    "F": {
+      "item": "amethystmod:flame_crystal"
+    }
+  },
+  "result": {
+    "id": "amethystmod:berserker_core",
+    "count": 1
+  }
+}

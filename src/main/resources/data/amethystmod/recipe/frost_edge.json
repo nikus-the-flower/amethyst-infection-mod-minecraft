@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "B",
+    "S"
+  ],
+  "key": {
+    "F": {
+      "item": "amethystmod:frost_crystal"
+    },
+    "B": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "amethystmod:frost_edge",
+    "count": 1
+  }
+}

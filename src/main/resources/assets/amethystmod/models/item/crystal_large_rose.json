@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "amethystmod:block/crystal_large_rose"
+  }
+}

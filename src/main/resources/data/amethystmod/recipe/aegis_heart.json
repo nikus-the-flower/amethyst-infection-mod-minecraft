@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BEB",
+    "EDE",
+    "BEB"
+  ],
+  "key": {
+    "B": {
+      "item": "amethystmod:amethyst_crystal_block"
+    },
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "amethystmod:aegis_heart",
+    "count": 1
+  }
+}

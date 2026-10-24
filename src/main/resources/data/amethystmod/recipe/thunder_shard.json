@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LEL",
+    "EBE",
+    "LEL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "E": {
+      "item": "amethystmod:amethyst_essence"
+    },
+    "B": {
+      "item": "amethystmod:brilliant_amethyst"
+    }
+  },
+  "result": {
+    "id": "amethystmod:thunder_shard",
+    "count": 1
+  }
+}
